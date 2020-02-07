@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiphiefoht.simplifierlab.com/sitemap.xml
